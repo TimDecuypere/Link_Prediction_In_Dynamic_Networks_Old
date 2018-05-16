@@ -1,0 +1,9 @@
+
+ Total nodes:4158
+ Total edges:13422
+ Training edges (positive): 13342
+ Training edges (negative): 13342
+ Validation edges (positive): 13
+ Validation edges (negative): 13
+ Test edges (positive): 67
+ Test edges (negative): 67

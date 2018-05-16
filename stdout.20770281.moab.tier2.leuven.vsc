@@ -1,0 +1,28 @@
+time: 86400
+nodes: 1
+procs: 4
+account string: default_project
+queue: q24h
+========================================================================
+========================================================================
+Epilogue args:
+Date: Thu Mar 22 15:33:01 CET 2018
+Allocated nodes:
+r11i2n6
+r11i2n6
+r11i2n6
+r11i2n6
+Job ID: 20770281.moab.tier2.leuven.vsc
+User ID: vsc32313
+Group ID: vsc32313
+Job Name: python_job_node2vec
+Session ID: 23244
+Resource List: neednodes=1:ppn=4,nodes=1:ppn=4,pmem=20gb,walltime=24:00:00
+Resources Used: cput=00:00:00,energy_used=0,mem=25128kb,vmem=453536kb,walltime=00:00:04
+Queue Name: q24h
+Account String: 
+-------------------------------------------------------------------------
+time: 4
+nodes: 1
+procs: 4
+account: default_project

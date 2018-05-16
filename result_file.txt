@@ -1,0 +1,4 @@
+node2vec Validation ROC score: 1.0 
+ node2vec Validation AP score: 1.0 
+ node2vec Test ROC score: 0.984629093339 
+ node2vec Test AP score: 0.988148093433
